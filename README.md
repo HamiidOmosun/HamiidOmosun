@@ -72,7 +72,3 @@ With every project, my goal is to build solutions that are not only functional b
 </table>
 
 <br>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamiidomosun&show_icons=true&locale=en&layout=compact" alt="hamiidomosun" />
-</p>
